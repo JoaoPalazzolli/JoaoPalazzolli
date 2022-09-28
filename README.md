@@ -6,13 +6,14 @@
   
 <div align="left">
   <a href="https://github.com/JoaoPalazzolli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopalazzolli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopalazzolli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+    </a> 
 </div>
 
   ## Tecnologias que utilizo
   
 <div style="display: inline_block"><br>
-   <a href="https://www.linkedin.com/in/joaopedropalazzolli/" target="_blank">
+  <a href="https://github.com/JoaoPalazzolli">
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
