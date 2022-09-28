@@ -20,8 +20,8 @@
   <img align="right" alt="Rafa-pic" height="150" width="160" style="border-radius:50px;" src="https://media.discordapp.net/attachments/722615924225474570/1024493231460860024/unknown.png"> 
   
   <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <br> <br>
- </a> 
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <br> <br> </a> 
+ 
 - 💻 Apaixonado por tecnologia <br> 
 - 🎓 Cursando engenharia de computação <br>
 - ☕ Estudando Java <br>
