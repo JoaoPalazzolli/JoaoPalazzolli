@@ -19,9 +19,10 @@
   
   <img align="right" alt="Rafa-pic" height="150" width="160" style="border-radius:50px;" src="https://media.discordapp.net/attachments/722615924225474570/1024493231460860024/unknown.png"> <br>
  
-- 💻 Cursando engenharia de computação <br>
-- ☕ Fazendo curso de Java <br>
-- 👨‍💻 Estudando linguagens de programação
+- 💻 Apaixonado por tecnologia <br> 
+- 🎓 Cursando engenharia de computação <br>
+- ☕ Estudando Java <br>
+- 👨‍💻 Aprendendo novas linguagens de programação
 </div>
   
   ##
