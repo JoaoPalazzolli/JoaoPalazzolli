@@ -1,14 +1,18 @@
 ## Falaaaa Dev! Eu sou o João Pedro 👋
-
-
-<div align="center">
+ 💻 Cursando engenharia de computação <br>
+ ☕ Fazendo curso de Java <br>
+ 👨‍💻 Estudando linguagens de programação
+  
+<div align="left">
   <a href="https://github.com/JoaoPalazzolli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopalazzolli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopalazzolli&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+  ## Tecnologias que utilizo
+  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
