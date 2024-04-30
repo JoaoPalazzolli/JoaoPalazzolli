@@ -29,7 +29,8 @@
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 ### 📚 Frameworks, Libraries & Tools:</summary>
-![SpringBoot](https://img.shields.io/badge/SpringBoot-F2F4F9?style=for-the-badge&logo=spring-boot&labelColor=97CA00&color=97CA00&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-F2F4F9?style=for-the-badge&logo=spring-boot&labelColor=6DB33F&color=6DB33F&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
